@@ -1,4 +1,4 @@
-#inlcude "lists.h"
+#include "lists.h"
 
 /**
  * add_nodeint - adds a node to the beginnig of a linked list
