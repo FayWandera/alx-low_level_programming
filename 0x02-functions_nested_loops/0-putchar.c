@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * main -> prints _putchar without printf
- * return: always 0 = successful
+ ** main -> prints _putchar without printf
+ * 
+ **Return: always 0 (success)
  */
 int main(void)
 {
